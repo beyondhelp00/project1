@@ -3,7 +3,8 @@
 // TODO: Includes a running average to insure proper RPM output
 // TODO: Output a clean averaged 5v Sq wave of RPM
 // NOTE: May need to go to (us) as opposed to (ms) for better resolution
-// Test AHT
+// This is a test
+// To see how github works
 
 int Cycle = 0;                  // set to 0 for PulseStartTime and set to 
                         //   1 for PulseEndTime
