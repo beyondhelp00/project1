@@ -1,3 +1,4 @@
+// this is a edit by Ed as a test.. 
 // Program to count pulses per revolution in an automobile
 // TODO: Includes a running average to insure proper RPM output
 // TODO: Output a clean averaged 5v Sq wave of RPM
